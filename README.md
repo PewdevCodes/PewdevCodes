@@ -2,17 +2,22 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3911518/screenshots/11294230/media/c40ee1a764a5219e5866cc871fbcb9ae.gif">
 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pewdevcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pewdevcodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sheols_erebus" target="blank"><img src="https://img.shields.io/twitter/follow/sheols_erebus?logo=twitter&style=for-the-badge" alt="sheols_erebus" /></a> </p>
 
-- 🌱 I’m currently learning **Java Fullstack , Data Structure and Algorithm , Frontend Development**
+- 🌱 I’m currently learning **Data Structure and Algorithm (c++) , Frontend Development and a bit of backend development using Python**
 
-- 💬 Ask me about **Java , DSA(Java) , Frontend Dev**
+- 💬 Ask me about **DSA(C++) , Frontend Dev**
 
 - 📫 How to reach me **shantanu270805@gmail.com**
 
 - ⚡ Fun fact **I don't just squash bugs; I collect them like Pokémon. Gotta catch 'em all...and then fix 'em!💥**
+
+- https://holopin.me/pewdevcodes
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
