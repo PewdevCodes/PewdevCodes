@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/3911518/screenshots/11294230/media/c40ee1a764a5219e5866cc871fbcb9ae.gif">
 
-[![An image of @pewdevcodes's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pewdevcodes)](https://holopin.io/@pewdevcodes)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pewdevcodes&label=Profile%20views&color=0e75b6&style=flat" alt="pewdevcodes" /> </p>
 
