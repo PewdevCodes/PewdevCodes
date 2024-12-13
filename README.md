@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/sheols_erebus" target="blank"><img src="https://img.shields.io/twitter/follow/sheols_erebus?logo=twitter&style=for-the-badge" alt="sheols_erebus" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structure and Algorithm (c++) , Frontend Development and a bit of backend development using Python**
+- 🌱 I’m currently learning **Data Structure and Algorithm (c++) , Frontend Development and a bit of Backend-Development**
 
 - 💬 Ask me about **DSA(C++) , Frontend Dev**
 
@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **I don't just squash bugs; I collect them like Pokémon. Gotta catch 'em all...and then fix 'em!💥**
 
-- https://holopin.me/pewdevcodes
+  
 
 
 <h3 align="left">Connect with me:</h3>
